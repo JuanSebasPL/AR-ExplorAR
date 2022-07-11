@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Interfaz_Principal.unity
+    guid: 1ff9d2c37c223744f99fd665092205ca
+  - enabled: 1
+    path: Assets/Scenes/Argps.unity
+    guid: b17f919458c6ae84dbdf0ff262981a7f
+  - enabled: 1
+    path: Assets/Scenes/ARTag.unity
+    guid: f20a7b729ab38a0459e7863e1d81276c
+  - enabled: 1
+    path: Assets/Scenes/Registrar_Usuario.unity
+    guid: 1baa95d2d831b9b4dbcbcdaa8af8f0fc
+  - enabled: 1
+    path: Assets/Scenes/Detalles_Lugar.unity
+    guid: c0b4b4b9c3c611f48a702293aa7fc7c0
+  - enabled: 1
+    path: Assets/Scenes/Anadir_Lugar.unity
+    guid: 4748a6526ef24ce48871fa334df7c4d9
+  - enabled: 1
+    path: Assets/Scenes/Gestionar_Lugares.unity
+    guid: 2ed7409ea423be444a73e8fc89256639
+  - enabled: 1
+    path: Assets/Scenes/Lista_Lugares.unity
+    guid: b96e3f610a3c9314387750dba6e05de2
+  - enabled: 1
+    path: Assets/Scenes/Perfil_Usuario.unity
+    guid: 246b3564d78cd2e4cb7a440c6bb29de6
+  m_configObjects: {}

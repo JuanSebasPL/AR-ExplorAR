@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/Lista_Lugares.unity
+  isLoaded: 1
+  isActive: 1

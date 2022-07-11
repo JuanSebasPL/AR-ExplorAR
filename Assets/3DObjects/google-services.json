@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "34949593247",
+    "firebase_url": "https://data-explorar.firebaseio.com",
+    "project_id": "data-explorar",
+    "storage_bucket": "data-explorar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34949593247:android:a67cf3a01b56cf41bbcaaa",
+        "android_client_info": {
+          "package_name": "com.legolax.ExplorAR"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "34949593247-32e1lqtqbsidtr7b09u9jdg49m8mf7o3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANoO3Z5UFB61issDq_HvSesufRs5eahXE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "34949593247-32e1lqtqbsidtr7b09u9jdg49m8mf7o3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
